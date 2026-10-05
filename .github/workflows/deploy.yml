@@ -35,6 +35,8 @@ jobs:
 
       - name: Build static files
         run: npm run build
+        env:
+	        BASE_URL: /toy-shop/
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
