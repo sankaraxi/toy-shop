@@ -1,0 +1,6 @@
+{
+  "name": "WonderKind Toys",
+  "description": "Boutique toy shop featuring heirloom wooden toys, STEM kits, creative crafts, and thoughtful playthings for curious children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
